@@ -11,7 +11,7 @@ Built as part of the **Database Management Systems** course at
 
 ## 📐 Database Design
 
-- **20 relational tables** spanning the complete e-commerce supply chain
+- **19 relational tables** spanning the complete e-commerce supply chain
 - Fully normalized to **BCNF** — minimal functional dependencies derived
   and verified for all 20 relations
 - Schema designed using an **ER diagram (DIA)** before implementation
